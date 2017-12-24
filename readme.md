@@ -1,0 +1,1 @@
+![Max resources day 0](https://github.com/Zoryn4163/TaBILTrainer/blob/master/tabil-proof.png)
